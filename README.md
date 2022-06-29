@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me here or on my linkdin Sabrina Kirchner
+- 🌱AWS certified/cloud projects too
 
 <!---
 sabrinapsouza/sabrinapsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
